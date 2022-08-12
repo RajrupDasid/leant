@@ -1,4 +1,4 @@
-#brack propagation and how to clculate stuffs
+#back propagation and how to clculate stuffs
 import torch
 
 
