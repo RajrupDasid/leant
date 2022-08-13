@@ -41,7 +41,7 @@ model = Model(n_features)
 
 # 2) Loss and optimizer
 num_epochs = 100
-learning_rate = 0.01
+learning_rate = 0.1
 criterion = nn.BCELoss()
 optimizer = torch.optim.SGD(model.parameters(), lr=learning_rate)
 
